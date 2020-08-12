@@ -48,7 +48,7 @@
             <div class="row align-items-center notice-area py-2 justify-content-center">
                 <div class="col-7">
                     <div class="">
-                        <p class="desc-title" id="date1">2007/1/16 Nueva promoción en la costa</p>
+                        <p class="desc-title" id="date1">16/01/2007 Nueva promoción en la costa</p>
                         <p class="description" id="desc1">
                             Ya están a la venta los apartamentos de la nueva promoción Villa Romana. Situada en primera línea de playa, esta moderna urbanización cuenta con todas las comodidades y una cantidaddes de lujo. Una oportunidad unica de disfrutar de un apartamento en la
                             mejor playa de la costa.
@@ -60,7 +60,7 @@
             <div class="row align-items-center notice-area mt-3 py-2 justify-content-center">
                 <div class="col-7">
                     <div class="">
-                        <p class="desc-title" id="date2">2007/1/19 Finalizando la promoción "Nueva Atalaya"</p>
+                        <p class="desc-title" id="date2">19/01/2007 Finalizando la promoción "Nueva Atalaya"</p>
                         <p class="description" id="desc2">
                             Ya se han entregado las llaves a los propietarios de las magníficas viviendas de la promoción Nueva Atalaya.En breve comenzarán las obras de la fase II, para la cual existe una gran expectación.
                         </p>
@@ -95,9 +95,9 @@
             document.getElementById("serv").innerHTML="Services"
             document.getElementById("not").innerHTML="Notices"
             document.getElementById("cont").innerHTML="Contact"            
-            document.getElementById("date1").innerHTML="2007/1/16 New development on the coast"
+            document.getElementById("date1").innerHTML="2007/01/16 New development on the coast"
             document.getElementById("desc1").innerHTML="The apartments of the new Villa Romana development are already for sale. Located on the beachfront, this modern urbanization has all the comforts and an amount of luxury. A unique opportunity to enjoy an apartment on the best beach on the coast. "
-            document.getElementById("date2").innerHTML="2007/1/19 Finalizing the promotion 'Nueva Atalaya'"
+            document.getElementById("date2").innerHTML="2007/01/19 Finalizing the promotion 'Nueva Atalaya'"
             document.getElementById("desc2").innerHTML="The keys have already been handed over to the owners of the magnificent homes in the Nueva Atalaya development. Work on phase II will begin shortly, for which there is great expectation."
             document.getElementById("foot").innerHTML="Lindavista Real Estate. We build a better world better for you."
 
@@ -112,9 +112,9 @@
             document.getElementById("not").innerHTML="Noticias"
             document.getElementById("cont").innerHTML="Contactos"
             
-            document.getElementById("date1").innerHTML="2007/1/16 Nueva promoción en la costa"
+            document.getElementById("date1").innerHTML="16/01/2007 Nueva promoción en la costa"
             document.getElementById("desc1").innerHTML="Ya están a la venta los apartamentos de la nueva promoción Villa Romana. Situada en primera línea de playa, esta moderna urbanización cuenta con todas las comodidades y una cantidaddes de lujo. Una oportunidad unica de disfrutar de un apartamento en la mejor playa de la costa. "
-            document.getElementById("date2").innerHTML="2007/1/19 Finalizando la promoción 'Nueva Atalaya'"
+            document.getElementById("date2").innerHTML="19/01/2007 Finalizando la promoción 'Nueva Atalaya'"
             document.getElementById("desc2").innerHTML="Ya se han entregado las llaves a los propietarios de las magníficas viviendas de la promoción Nueva Atalaya.En breve comenzarán las obras de la fase II, para la cual existe una gran expectación."
             document.getElementById("foot").innerHTML="Inmobiliaria Lindavista. Construimos un mundo mejor mejor para usted."
 
